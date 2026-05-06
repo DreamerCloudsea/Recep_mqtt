@@ -94,7 +94,7 @@ broker.hivemq.com"""
 st.title('📡 Lector de Sensor MQTT')
 
 st.image(
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Internet2.jpg/960px-Internet2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d3/Temperature-humidity-sensor-module.jpg",
     caption="Comunicación IoT mediante MQTT",
     width=600
 )
